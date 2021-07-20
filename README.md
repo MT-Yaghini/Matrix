@@ -19,7 +19,6 @@ and finally by destroying the matrix and dividing its doors in the determinants 
 Examples of matrices for program testing:
 
 10 x 10:
-
 0 0 0 0 3 0 0 2 0 3
 3 0 0 1 0 2 0 0 2 1
 3 1 0 3 0 0 2 1 4 0
@@ -32,7 +31,6 @@ Examples of matrices for program testing:
 9 0 0 3 4 1 2 5 0 3
 
 8 x 8:
-
 0 0 0 2 0 0 1 1
 1 0 0 2 0 0 3 4
 1 2 0 4 0 0 5 0
@@ -43,7 +41,6 @@ Examples of matrices for program testing:
 0 0 2 0 0 3 1 4
 
 7 x 7:
-
 0 0 0 2 0 3 9
 2 0 0 2 3 1 4
 7 9 2 3 0 4 1
